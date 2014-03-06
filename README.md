@@ -1,4 +1,4 @@
-## bug.n Config.ini
+## bug.n - Config.ini
 
 This is my personal Config.ini for bug.n (Tiling Window Manager for Windows).
 

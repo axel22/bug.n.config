@@ -1,43 +1,5 @@
 = README
 
-This is only a test.
+This is my personal Config.ini for bug.n (Tiling Window Manager for Windows)
 
-_italic phrase_
-
-__i__talic le__tt__ers
-
-*bold phrase*
-
-**b**old le**tt**ers
-
-*_bold italic phrase_*
-
-**__b__**old italic le**__tt__**ers
-
-+monospace phrase+ and le++tt++ers
-
-+_monospace italic phrase_+ and le++__tt__++ers
-
-+*monospace bold phrase*+ and le++**tt**++ers
-
-+*_monospace bold italic phrase_*+ and le++**__tt__**++ers
-
-`inline literal passthrough` (monospace text without substitutions)
-
-* level 1
-** level 2
-*** level 3
-**** level 4
-***** level 5
-* level 1
-
-- [*] checked
-- [x] also checked
-- [ ] not checked
--     normal list item
-
-http://asciidoctor.org - automatic!
-
-http://asciidoctor.org[Asciidoctor]
-
-https://github.com/asciidoctor[Asciidoctor @ *GitHub*]
+Please see https://github.com/fuhsjr00/bug.n[bug.n @ *GitHub*] for more information on bug.n.

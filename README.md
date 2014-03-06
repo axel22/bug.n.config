@@ -1,4 +1,6 @@
-This is my personal Config.ini for bug.n (Tiling Window Manager for Windows)
+## bug.n Config.ini
 
-Please see https://github.com/fuhsjr00/bug.n[bug.n @ **GitHub**] for more
-information on bug.n.
+This is my personal Config.ini for bug.n (Tiling Window Manager for Windows).
+
+Please see [the repository at GitHub](https://github.com/fuhsjr00/bug.n) for
+more information on bug.n.
